@@ -1,1 +1,1 @@
-# strong-password-checker
+# strong-password-checker-java
